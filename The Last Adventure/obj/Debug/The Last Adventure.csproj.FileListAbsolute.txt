@@ -1,0 +1,6 @@
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\bin\Debug\The Last Adventure.exe.config
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\bin\Debug\The Last Adventure.exe
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\bin\Debug\The Last Adventure.pdb
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\obj\Debug\The Last Adventure.csprojAssemblyReference.cache
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\obj\Debug\The Last Adventure.exe
+C:\Users\DESY-8\source\repos\The Last Adventure\The Last Adventure\obj\Debug\The Last Adventure.pdb
